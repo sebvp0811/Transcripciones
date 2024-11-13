@@ -17,7 +17,7 @@ Este script utiliza el modelo Whisper de OpenAI para transcribir un archivo de a
 2. Bibliotecas necesarias:
    - `openai-whisper`
    - `tqdm`
-   - `ffmpeg` (para procesar y convertir el audio si es necesario)
+   - `ffmpeg`
 
 ## Instalación
 Sigue los pasos a continuación para configurar el entorno:
